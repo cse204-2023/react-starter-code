@@ -9,14 +9,10 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <h2>Notes</h2>
+        <ul>
+          <li>Use CTRL+C or CMD+C to stop your React server.</li>
+        </ul>
       </header>
     </div>
   );
