@@ -1,3 +1,24 @@
+# Todo React App Instructions (Modern React / Hooks Based)
+
+## Modern React Instructions
+You will find almost all current React documetation and recent tutorials are going to look like this style.
+
+1. [Setup Instructions](./todo_documentation/todo_setup_instructions.md)
+2. [Getting Started (conversion part 1)](./todo_documentation/todo_getting_started.md)
+3. [AJAX and Events (conversion part 2)](./todo_documentation/todo_ajax_and_events.md)
+4. [Code snippets and React Examples](./todo_documentation/todo_snippets.md)
+
+## Old React Instructions
+The slides and Canvas documentation are in this style.
+1. [Setup Instructions](https://gist.github.com/britton-clapp/904cf0750aa214aaacb5ce73ba1fbeaa)
+2. [Getting Started (conversion part 1)](https://gist.github.com/kraigh/b3258935d243c718577b0b38c8450da8)
+3. [AJAX and Events (conversion part 2)](https://gist.github.com/kraigh/515d8b90625a289c7fac1b8f6a713464)
+4. [Code snippets and React Examples](https://gist.github.com/kraigh/fb524c6db6cce065c2ba344724d3c993)
+
+
+Everything below this line will be covered in a more detailed manner,
+if you use the above links.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
