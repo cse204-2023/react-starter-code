@@ -1,7 +1,7 @@
 # ToDo React
 
 # Setup
-- Make sure you've followed the instructions [here](instructions.md) and have a working React app that is published to Github Pages.
+- Make sure you've followed the instructions [here](todo_setup_instructions.md) and have a working React app that is published to Github Pages.
 - If you're using Bootstrap, jQuery, or another framework that you're loading via a CDN, copy your `<link>` or `<script>` tags that load the frameworks into `public/index.html`.
   - CSS you will want to load above the existing `<link rel="manifest" href="%PUBLIC_URL%/manifest.json">` line.
   - jQuery, etc you will want to place right before the closing `</body>` tag.
