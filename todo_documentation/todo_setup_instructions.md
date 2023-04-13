@@ -18,7 +18,7 @@
   - In your terminal application, navigate to your repo folder.
   - Run `npm run start` or, as shortcut, `npm start`
   - The url "http://localhost:3000" should automatically open in your browser. If not, open it. You should see a heading "ToDo App".
-  - In your code editor, open your repository and find the `src/App.js` file. This contains the code for your React app. Add your name to the "h1" tag so that it reads "YOURNAME's ToDo App".
+  - In your code editor, open your repository and find the `src/App.js` file. This contains the code for your React app. Add your name to an "h1" tag so that it reads "YOURNAME's ToDo App".
   - Save the file and switch back to your browser. The page should automatically reload and you should see your changes.
   - When done, you can stop the local server by opening your terminal and typing "ctrl-c"
   
